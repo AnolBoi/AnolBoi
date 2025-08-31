@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anıl
 
-🎓 I'm a 2nd year Computer Engineering student.
+🎓 I'm a 3rd year Computer Engineering student.
 💻 Passionate about Computer Networks, Minecraft Modding and overall Programming.
 🚀 Currently working on more Minecraft mods!
 
