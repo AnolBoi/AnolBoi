@@ -9,9 +9,9 @@
 ## 🧰 Tech Stack
 
 **Languages:**  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) Intermediate
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Beginner/Intermediate
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) Intermediate
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 **Tools & Frameworks:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
